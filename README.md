@@ -1,6 +1,6 @@
 # Land Cover Classification using CNN and Sentinel-2 Satellite Imagery
 
-This project focuses on land cover classification from Sentinel-2 satellite imagery using a Convolutional Neural Network (CNN) implemented in PyTorch. The goal of the project is to classify satellite image patches into different land cover categories and demonstrate a basic deep learning workflow for geospatial AI applications.
+This project focuses on land cover classification from Sentinel-2 satellite imagery using a Convolutional Neural Network (CNN) implemented in PyTorch. The goal of the project is to classify satellite image patches into different land cover categories.
 
 ## Dataset
 
