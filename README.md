@@ -17,8 +17,8 @@ The project uses the EuroSAT RGB dataset, which contains Sentinel-2 satellite im
 - River
 - SeaLake
 
-- Official GitHub Repository: [EuroSAT GitHub Repository](https://github.com/phelber/EuroSAT)
-- Dataset Download (Zenodo): [EuroSAT Dataset Download](https://zenodo.org/records/7711810)
+Official GitHub Repository: [EuroSAT GitHub Repository](https://github.com/phelber/EuroSAT)
+Dataset Download (Zenodo): [EuroSAT Dataset Download](https://zenodo.org/records/7711810)
 
 Reference:
 Helber, P., Bischke, B., Dengel, A. and Borth, D. (2019) *EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification*.
