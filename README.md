@@ -69,7 +69,7 @@ Satellite image patches were resized to 64×64 pixels before training.
 ### 3. Prediction
 - Saved trained model weights
 - Loaded trained model for inference
-- Performed predictions on random unseen satellite images
+- Performed predictions on random images from EuroSAT dataset
 - Visualized predicted and true classes
 
 ---
